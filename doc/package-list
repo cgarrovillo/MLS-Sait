@@ -1,0 +1,10 @@
+sait.mls.application
+sait.mls.exceptions.clientale
+sait.mls.exceptions.property
+sait.mls.gui
+sait.mls.persistence
+sait.mls.persistence.clientale
+sait.mls.persistence.property
+sait.mls.problemdomain.clientale
+sait.mls.problemdomain.property
+utility
