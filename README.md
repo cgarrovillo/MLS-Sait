@@ -9,6 +9,8 @@ Part of CPRG-251 Object Oriented Programming - Maryam Moussavi
 3. Integrating with an Oracle Database using JDBC
 4. JavaFX
 5. What a Multiple Listing Software application means
+6. Serialization
+7. Random Access Files
 
 
 ### Tools Used: 
